@@ -13,3 +13,9 @@ les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Pro
 # Methode
 ` Diamond : transcription en RDF de la méthode Diamond : (DIAMOND : Une approche pour la conception de
 systèmes multi-agents embarquées - Jean-Paul Jamont([https://tel.archives-ouvertes.fr/tel-00189046/document]
+
+# Ressource
+- RobotBase : une base de connaissance extraite des travaux de L. Peuch
+
+# Quotidien
+-  majournee.owl : un exemple pour décrire les evenements d'une journée en rdf/owl
