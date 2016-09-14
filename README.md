@@ -6,6 +6,7 @@ les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Pro
 # Exemple de visualisation d'ontologies ou de bases de connaissances :
 - téléchargez le fichier présent dans quotidien/appartementDavid.ttl
 - lancez DreamCatcher 42 (http://rdf-smag0.rhcloud.com/dreamcatcher)
+- l'aide pour la manipulation du graphe est ici : http://smag-smag0.rhcloud.com/DreamCatcher/help.html
 - saisissez un nom d'utilisateur , cliquez sur parcourir, et mettez lui le fichier appartementDavid.ttl
 
 
