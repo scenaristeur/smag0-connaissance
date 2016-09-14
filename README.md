@@ -19,3 +19,4 @@ systèmes multi-agents embarquées - Jean-Paul Jamont([https://tel.archives-ouve
 
 # Quotidien
 -  majournee.owl : un exemple pour décrire les evenements d'une journée en rdf/owl
+-  appartementDavid.ttl : un exmple pour décrire un environnement
