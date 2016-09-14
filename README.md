@@ -3,11 +3,11 @@ Base de connaissances et d'ontologies utiles au projet Smag0 . http://smag0.blog
 
 les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Protege 2000 et visualisables dans :
 
-- (DreamCatcher)[http://smag-smag0.rhcloud.com/DreamCatcher/]
-- (DreamCatcher V1)[http://smag-smag0.rhcloud.com/DreamCatcher1/]
-- (DreaCatcherAutonome && Collaboratif)[http://smag-smag0.rhcloud.com/dca/autonome/public/], (source)[https://github.com/scenaristeur/dreamcatcherAutonome]
-- (DreamCatcher 42) [http://rdf-smag0.rhcloud.com/dreamcatcher/]
-- (DreamCatcher Graphe)[http://rdf-smag0.rhcloud.com/smag.html] (Bug : pensez à baisser le paramètre dumping avant d'importer)
+- DreamCatcher : http://smag-smag0.rhcloud.com/DreamCatcher/
+- DreamCatcher V1 : http://smag-smag0.rhcloud.com/DreamCatcher1/
+- DreaCatcherAutonome && Collaboratif : http://smag-smag0.rhcloud.com/dca/autonome/public/ (source : https://github.com/scenaristeur/dreamcatcherAutonome)
+- DreamCatcher 42 : http://rdf-smag0.rhcloud.com/dreamcatcher
+- DreamCatcher Graphe : http://rdf-smag0.rhcloud.com/smag.html (Bug : pensez à baisser le paramètre dumping avant d'importer)
 
 
 # Methode
