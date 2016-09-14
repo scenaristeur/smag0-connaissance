@@ -11,7 +11,7 @@ les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Pro
 
 
 # Methode
-` Diamond : transcription en RDF de la méthode Diamond : (DIAMOND : Une approche pour la conception de
+- Diamond : transcription en RDF de la méthode Diamond : (DIAMOND : Une approche pour la conception de
 systèmes multi-agents embarquées - Jean-Paul Jamont([https://tel.archives-ouvertes.fr/tel-00189046/document]
 
 # Ressource
