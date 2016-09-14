@@ -1,7 +1,15 @@
 # smag0-connaissance
 Base de connaissances et d'ontologies utiles au projet Smag0 . http://smag0.blogspot.fr
 
-les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Protege 2000 et visualisables dans :
+les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Protege 2000 et visualisables dans plusieurs outils en cours de développements par l'équipe Smag0.
+
+# Exemple de visualisation d'ontologies ou de bases de connaissances :
+- téléchargez le fichier présent dans quotidien/appartementDavid.ttl
+- lancez DreamCatcher 42 (http://rdf-smag0.rhcloud.com/dreamcatcher)
+- saisissez un nom d'utilisateur , cliquez sur parcourir, et mettez lui le fichier appartementDavid.ttl
+
+
+# Autres outils de visualisation
 
 - DreamCatcher : http://smag-smag0.rhcloud.com/DreamCatcher/
 - DreamCatcher V1 : http://smag-smag0.rhcloud.com/DreamCatcher1/
