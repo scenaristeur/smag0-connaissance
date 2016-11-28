@@ -9,6 +9,9 @@ les ontologies, bases de connaissances (owl/rdf/ttl...) sont modifiables via Pro
 - l'aide pour la manipulation du graphe est ici : http://smag-smag0.rhcloud.com/DreamCatcher/help.html
 - saisissez un nom d'utilisateur , cliquez sur parcourir, et mettez lui le fichier appartementDavid.ttl
 
+# Outil de création de graphe RDF
+
+- CreateRDF-js : https://github.com/scenaristeur/CreateRDF-js
 
 # Autres outils de visualisation
 
